@@ -1,3 +1,3 @@
-# B1 AC05
+# B1 A1
 
-Exercices to practice the basics of structural programming in the console.
+C# Exercices in console to practice the basics of structural programming.
