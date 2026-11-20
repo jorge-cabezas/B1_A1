@@ -1,3 +1,3 @@
-# B1 A1
+# B1 A1 - Is Natural Number
 
-C# Exercices in console to practice the basics of structural programming.
+Ask the user to input a number and show if its a natural or not.
